@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft_abyss_mod_piggledy:mother_of_pearl_shell"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "## ",
+    " I ",
+    " I "
+  ],
+  "result": {
+    "item": "minecraft_abyss_mod_piggledy:mother_of_pearl_hoe"
+  },
+  "show_notification": true
+}

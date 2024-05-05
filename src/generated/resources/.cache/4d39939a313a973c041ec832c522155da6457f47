@@ -1,0 +1,4 @@
+// 1.20.1	2024-04-30T21:19:13.6507	Tags for minecraft:block mod id minecraft_abyss_mod_piggledy
+792b7465cfb0538c0f8c818dd99802b51cc12e65 data/minecraft/tags/blocks/mineable/pickaxe.json
+723a80e64e44b0c44ae1c2a9f818d3552e17eb1f data/minecraft/tags/blocks/needs_diamond_tool.json
+b065ceae60b6ad8acb30f310fed4b4743ae011c4 data/minecraft/tags/blocks/needs_iron_tool.json

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft_abyss_mod_piggledy:mother_of_pearl_shell"
+    }
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "   "
+  ],
+  "result": {
+    "item": "minecraft_abyss_mod_piggledy:mother_of_pearl_boots"
+  },
+  "show_notification": true
+}

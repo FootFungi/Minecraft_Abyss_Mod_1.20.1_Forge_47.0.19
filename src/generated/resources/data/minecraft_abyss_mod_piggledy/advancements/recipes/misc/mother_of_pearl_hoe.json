@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mother_of_pearl_shell": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft_abyss_mod_piggledy:mother_of_pearl_shell"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft_abyss_mod_piggledy:mother_of_pearl_hoe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_mother_of_pearl_shell",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft_abyss_mod_piggledy:mother_of_pearl_hoe"
+    ]
+  },
+  "sends_telemetry_event": false
+}

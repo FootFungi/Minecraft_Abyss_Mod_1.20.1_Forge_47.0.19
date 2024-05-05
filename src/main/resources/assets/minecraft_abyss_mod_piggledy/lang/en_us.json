@@ -1,0 +1,32 @@
+{
+  "item.minecraft_abyss_mod_piggledy.gleaming_powder": "Gleaming Powder",
+
+  "item.minecraft_abyss_mod_piggledy.piggledy_spawn_egg": "Piggledy Spawn Egg",
+
+  "item.minecraft_abyss_mod_piggledy.shard_of_mother_of_pearl": "Mother of Pearl Shard",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_shell": "Mother of Pearl Shell",
+
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_sword": "Mother of Pearl Sword",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_pickaxe": "Mother of Pearl Pickaxe",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_axe": "Mother of Pearl Axe",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_shovel": "Mother of Pearl Shovel",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_hoe": "Mother of Pearl Hoe",
+
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_helmet": "Mother of Pearl Helmet",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_chestplate": "Mother of Pearl Chestplate",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_leggings": "Mother of Pearl Leggings",
+  "item.minecraft_abyss_mod_piggledy.mother_of_pearl_boots": "Mother of Pearl Boots",
+
+  "block.minecraft_abyss_mod_piggledy.shimmering_stone": "Shimmering Stone",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_block": "Block of Mother of Pearl",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_stone_ore_state_one": "small Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_stone_ore_state_two": "medium Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_stone_ore_state_three": "big Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_stone_ore_state_four": "massive Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_deepslate_ore_state_one": "small Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_deepslate_ore_state_two": "medium Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_deepslate_ore_state_three": "big Mother of Pearl Ore",
+  "block.minecraft_abyss_mod_piggledy.mother_of_pearl_deepslate_ore_state_four": "massive Mother of Pearl Ore",
+
+  "creativetab.tutorial_tab": "Modded Stuff"
+}

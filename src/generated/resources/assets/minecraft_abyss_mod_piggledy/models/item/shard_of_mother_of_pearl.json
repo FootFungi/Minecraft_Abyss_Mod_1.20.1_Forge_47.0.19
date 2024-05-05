@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft_abyss_mod_piggledy:item/shard_of_mother_of_pearl"
+  }
+}
